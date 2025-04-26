@@ -1,0 +1,11 @@
+[project]
+title = "NBA Player Stats"
+version = "1.0"
+
+[branding]
+name = "NBA Analyzer"
+primaryColor = "#1d428a"  # NBA blue
+
+[data.all_seasons_csv]
+type = "csv"
+path = "data/all_seasons.csv"
